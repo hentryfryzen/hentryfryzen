@@ -18,6 +18,7 @@ I'm Hentry Fryzen, a passionate Backend Developer with a keen interest in buildi
   - Java
   - SQL
   - Bash/Shell scripting
+  - Hardware & Networking
 
 - **Frameworks & Libraries:**
   - Laravel
